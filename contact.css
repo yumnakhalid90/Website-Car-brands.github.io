@@ -1,0 +1,105 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+#wholeform {
+    margin-top: 3%;
+    border-radius: 1%;
+   background-color: #000;
+   margin-bottom: 2%;
+}
+
+body {
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+nav {
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+nav ul li a {
+    margin: 10px;
+}
+
+#firsth {
+    font-size: 400%;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+    transition: 0.3s;
+    font-weight: 600;
+   color: whitesmoke;
+}
+
+#firsth:hover {
+    text-shadow: 2px 0px 20px white(59, 55, 55);
+}
+
+
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: 	#8B0000;
+    padding-top: 20px;
+    color: #fff;
+}
+
+
+.footer-content h3{
+    font-size: 180%;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px 0 48px 0;
+}
+
+.socials li {
+    margin: 0 10px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i {
+    font-size: 17px;
+    transition: color .4s ease;
+}
+
+
+.footer-bottom {
+    background: #000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+

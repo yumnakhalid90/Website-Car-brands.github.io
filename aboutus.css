@@ -1,0 +1,180 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+nav {
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+nav ul li a {
+    margin: 10px;
+}
+
+#firsth {
+    margin-bottom: 40%;
+    font-size: 350%;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+    transition: 0.3s;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+}
+#firsth:hover {
+    text-shadow: 2px 0px 20px rgb(59, 55, 55);
+}
+
+#bmw1 {
+    margin-bottom: 43%;
+    font-size: 400%;
+    transition: 0.3s;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    text-shadow: 2px 0px 20px white (7, 63, 136);
+}
+
+#bmw1:hover {
+    text-shadow: 1px 0px 20px rgb(5, 5, 5);
+}
+
+
+#cardsectionh {
+    text-align: center;
+    margin: 5%;
+    color: white;
+    font-size: 360%;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+
+#wholecards {
+    margin: 1%;
+    padding: 1%;
+    align-items: center;
+    margin-bottom: 10%;
+}
+
+#Cardone {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#Cardone:hover {
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: solid;
+    color: white;
+}
+
+#Cardtwo {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#Cardtwo:hover {
+    border: solid;
+    color: white;
+}
+
+#Cardthree {
+    border-radius: 10px;
+    transition: 0.3s;    
+}
+
+#Cardthree:hover {
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: solid;
+    color: white;
+}
+
+#about {
+    background-color: black;
+    color: white;
+    border: solid rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: 0.3s;
+    text-align: center;
+    margin: 10%;
+}
+#about:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: none;
+}
+#abouth {
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+#aboutp {
+    text-transform: capitalize;
+    font-size: 120%;
+}
+#footer {
+    margin-top: 20%;
+    margin-bottom: 1%;
+}
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: #8B0000;
+    padding-top: 20px;
+    color: #fff;   
+}
+.footer-content h3{
+    font-size: 180%;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px 0 48px 0;
+}
+
+.socials li {
+    margin: 0 10px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i {
+    font-size: 17px;
+    transition: color .8s ease;
+}
+
+.socials a:hover i {
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+.footer-bottom {
+    background: #000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+

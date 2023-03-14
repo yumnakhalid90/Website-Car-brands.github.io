@@ -1,0 +1,105 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: black;
+}
+#firsth {
+    margin-bottom: 40%;
+    font-size: 350%;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+    transition: 0.3s;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+}
+#firsth:hover {
+    text-shadow: 2px 0px 20px rgb(59, 55, 55);
+}
+
+#bmw1 {
+    margin-bottom: 43%;
+    font-size: 400%;
+    transition: 0.3s;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    text-shadow: 2px 0px 20px white (7, 63, 136);
+}
+
+#bmw1:hover {
+    text-shadow: 1px 0px 20px rgb(5, 5, 5);
+}
+
+
+#cardsectionh {
+    text-align: center;
+    margin: 5%;
+    color: white;
+    font-size: 360%;
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+
+
+#wholecards {
+    margin: 1%;
+    padding: 1%;
+    align-items: center;
+    margin-bottom: 10%;
+}
+
+#Cardone {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#Cardone:hover {
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: solid;
+    color: white;
+}
+
+#Cardtwo {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#Cardtwo:hover {
+    border: solid;
+    color: white;
+}
+
+#Cardthree {
+    border-radius: 10px;
+    transition: 0.3s;    
+}
+
+#Cardthree:hover {
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: solid;
+    color: white;
+}
+
+#about {
+    background-color: black;
+    color: white;
+    border: solid rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: 0.3s;
+    text-align: center;
+    margin: 10%;
+}
+#about:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 1px 0px 20px rgba(255, 255, 250, 0.781);
+    border: none;
+}
+#abouth {
+    text-shadow: 1px 0px 20px rgb(255, 255, 255);
+}
+#aboutp {
+    text-transform: capitalize;
+    font-size: 120%;
+}
